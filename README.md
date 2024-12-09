@@ -10,6 +10,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" alt="LinkedIn" height="40">
 </a>
 
+Contact me: alishabose04@gmail.com
+
 ---
 
 ### 📂 Highlighted Projects
