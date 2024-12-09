@@ -1,6 +1,6 @@
 # Hi, I'm Alisha Bose 👋
 
-<img src="Alisha Bose.png"/>
+<img src="Alisha Bose.png" alt="Photo of woman wearing a blue vest with black hair" width="150" style="border-radius:50%;"/>
 
 🎓 Human Centered Design & Engineering student at the University of Washington  
 💡 Passionate about accessibility, machine learning, and inclusive design  
